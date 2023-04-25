@@ -18,8 +18,8 @@ namespace Program_construct{
 
             // SwitchCase Mycase = new SwitchCase();
             // Mycase.Calci();
-            Loops loop = new Loops();
-            loop.SumofSquares();
+         WhileLoop loop = new WhileLoop();
+         loop.SumofFive();
             
         }
     }
