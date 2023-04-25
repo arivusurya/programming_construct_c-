@@ -13,8 +13,12 @@ namespace Program_construct{
             // obj.oddoreven(4);
             // System.Console.WriteLine(obj.iseligibleforvote(17)); 
 
-            ConditionalClass mycondition = new ConditionalClass();
-            mycondition.AddmisionEligible();
+            // ConditionalClass mycondition = new ConditionalClass();
+            // mycondition.AddmisionEligible();
+
+            SwitchCase Mycase = new SwitchCase();
+            Mycase.Calci();
+            
         }
     }
 
