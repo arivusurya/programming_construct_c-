@@ -16,8 +16,10 @@ namespace Program_construct{
             // ConditionalClass mycondition = new ConditionalClass();
             // mycondition.AddmisionEligible();
 
-            SwitchCase Mycase = new SwitchCase();
-            Mycase.Calci();
+            // SwitchCase Mycase = new SwitchCase();
+            // Mycase.Calci();
+            Loops loop = new Loops();
+            loop.SumofSquares();
             
         }
     }
